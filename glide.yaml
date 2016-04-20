@@ -1,0 +1,14 @@
+package: github.com/pivotalservices/cfops-nfs-plugin
+import:
+- package: github.com/pivotalservices/cfbackup
+  version: df4bffd43e757db38caa5c225cb094cafd090542
+- package: github.com/pivotalservices/cfops
+  version: d7f07059f46963afa0a71bb97f70aed51d13ea2c
+  subpackages:
+  - plugin/cfopsplugin
+- package: github.com/pivotalservices/gtils
+  subpackages:
+  - command
+- package: github.com/xchapter7x/lo
+- package: github.com/onsi/ginkgo
+- package: github.com/onsi/gomega
