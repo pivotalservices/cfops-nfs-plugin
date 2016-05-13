@@ -8,3 +8,5 @@ import:
   subpackages:
   - command
 - package: github.com/xchapter7x/lo
+- package: github.com/onsi/ginkgo
+- package: github.com/onsi/gomega

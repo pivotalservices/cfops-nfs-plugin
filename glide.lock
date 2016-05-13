@@ -1,5 +1,5 @@
-hash: d33a3965dd29d6f02694c011955dc4155ece3e5ecdfd9ab3d58b0a8515d80584
-updated: 2016-05-13T12:46:23.989828726-04:00
+hash: d7f327b0188dbe18565688f9e8d315527f7f2497c80fd30b7606e720d610cc8a
+updated: 2016-05-13T12:49:58.83775164-04:00
 imports:
 - name: github.com/cloudfoundry-community/go-cfenv
   version: e01ad520da25cfac51386ef5143fdc2268a6f3b9
@@ -11,6 +11,10 @@ imports:
   version: 2788f0dbd16903de03cb8186e5c7d97b69ad387b
 - name: github.com/mitchellh/mapstructure
   version: 740c764bc6149d3f1806231418adb9f52c11bcbf
+- name: github.com/onsi/ginkgo
+  version: 5437a97bf824dec14e58d68c56ee36e772670c2e
+- name: github.com/onsi/gomega
+  version: 815512bce8c889153a13104c9d9b2416153c1e02
 - name: github.com/op/go-logging
   version: 970db520ece77730c7e4724c61121037378659d9
 - name: github.com/pivotal-golang/lager
